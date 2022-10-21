@@ -42,3 +42,5 @@
 
 * https://github.com/txuswashere/Sega-Genesis
 * https://github.com/txuswashere/Sega-MegaDrive
+* https://github.com/txuswashere/Sega32X
+* https://github.com/txuswashere/Sega-32X
